@@ -17,6 +17,6 @@ This script...
 # 2) CodeBook.rmd
 This is the raw markdown file that describes all of the steps that run_analysis.R performs on the raw data.
 
-# 3) CodeBook.hmtl
+# 3) CodeBook.html
 This is the html output of the knit command that was executed on CodeBook.rmd. 
 It contains the neatly formatted html of all of the activities contained in CodeBook.rmd.
