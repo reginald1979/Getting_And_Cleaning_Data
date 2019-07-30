@@ -14,7 +14,7 @@ This script...
 - replaces the activity id value with the activity description
 - creates a separate tidy data frame with the average of each variable for each activity and each subject
 
-# 2) CodeBook.rmd
+# 2) CodeBook.md
 This is the raw markdown file that describes all of the steps that run_analysis.R performs on the raw data.
 
 # 3) CodeBook.html
